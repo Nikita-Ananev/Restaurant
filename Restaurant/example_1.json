@@ -1,0 +1,68 @@
+{"dishDataArray": [
+{
+  "id": 1,
+  "name": "Капрезе",
+  "description": "Классическая итальянская закуска из молодого сыра моцарелла и помидоров черри. Подается с оливковым маслом и бальзамическим уксусом",
+  "imageURL": "https://www.krugly-stol.ru/modul/catalog/pic/tovar/thumb1/d6e3bcd13f89642484d35fa333df0ffd.jpg",
+  "price": 295,
+  "nutrionalValue": {
+    "proteins": 9.3,
+    "fats": 13.8,
+    "carbohydrates": 3.8,
+    "calories": 171
+  }
+},
+{
+  "id": 2,
+  "name": "Карпаччо из семки с моцареллой",
+  "description": "Слайсы слабосоленой семги подаются с нежным сыром моцарелла, помидорами черри конфи и корнишонами под лимонным соусом.",
+  "imageURL": "https://www.krugly-stol.ru/modul/catalog/pic/tovar/thumb1/ac8fe621b1ae20963802e72726d391e5.jpg",
+  "price": 490,
+  "nutrionalValue": {
+    "proteins": 20.0,
+    "fats": 3.0,
+    "carbohydrates":  0,
+    "calories": 110
+  }
+},
+{
+  "id": 3,
+  "name": "Салат Фахито",
+  "description": "Приготовленные на мангале говядина, болгарский перец, красный лук, подаются в корзиночке из сыра и микса из листьев салата, заправленного соусом чеддер",
+  "imageURL": "https://www.krugly-stol.ru/modul/catalog/pic/tovar/thumb1/907ae2b41e8acc07d581f0d26d4f7586.jpg",
+  "price": 585,
+  "nutrionalValue": {
+    "proteins": 15.2,
+    "fats": 20.5,
+    "carbohydrates": 3.0,
+    "calories": 285
+  }
+},
+{
+  "id": 4,
+  "name": "Салат Цезарь",
+  "description": "Запеченное куриное филе подается с миксом из листьев салата, чесночными гренками, чипсом из бекона и соусом Цезарь",
+  "imageURL": "https://www.krugly-stol.ru/modul/catalog/pic/tovar/thumb1/d332edf6b4351be42da9ae52e59fa8e9.jpg",
+  "price": 410,
+  "nutrionalValue": {
+    "proteins": 8.2,
+    "fats": 16.0,
+    "carbohydrates": 6.0,
+    "calories": 203
+  }
+},
+{
+  "id": 5,
+  "name": "Салат из тигровых креветок",
+  "description": "Классическое сочетание рукколы и креветок, приготовленных в итальянском стиле с базиликом и чесноком. Подается с соусом из майонеза с анчоусами и сыром грана падано",
+  "imageURL": "https://www.krugly-stol.ru/modul/catalog/pic/tovar/thumb1/6772bfe24bc228698ba16345bf75850e.jpg",
+  "price": 750,
+  "nutrionalValue": {
+    "proteins": 11.2,
+    "fats": 7.2,
+    "carbohydrates": 5.4,
+    "calories": 93
+  }
+}
+]
+}
